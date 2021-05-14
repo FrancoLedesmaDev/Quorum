@@ -1,0 +1,31 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+header img{
+    width: 60px;
+    height: 60px;
+}
+
+header ul{
+    width: 40vw;
+    display: flex;
+    justify-content: space-between;
+}
+
+header li{
+    margin: auto;
+}
+
+header a{
+    font-family: 'Monserrat';
+    font-size: 17px;
+    color: rgb(80, 80, 80);
+    transition: 200ms;
+}
+
+header a:hover{
+    color: #77C8F8;
+}

@@ -1,0 +1,18 @@
+.Intro{
+    margin-left: 15vw;
+    margin-top: 15vh;
+}
+
+.Intro h1{
+    padding-bottom: 15px;
+    font-family: 'Quicksand';
+    font-size: 50px;
+    color: rgb(80, 80, 80);
+}
+
+.Intro h3{
+    font-family: 'Quicksand';
+    font-size: 32px;
+    font-weight: lighter;
+    color: rgb(80, 80, 80);
+}

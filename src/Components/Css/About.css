@@ -1,0 +1,11 @@
+.About{
+    text-align: center;
+    margin-top: 200px;
+}
+
+.About p{
+    margin: 4vh;
+    font-family: 'Monserrat';
+    font-size: 18px;
+    color: rgb(80, 80, 80);
+}

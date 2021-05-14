@@ -1,0 +1,40 @@
+.Medic{
+    width: 80vw;
+    margin-left: 10vw;
+    padding-top: 20px;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: 300ms;
+}
+
+.Medic:last-child{
+    border-bottom: none;
+}
+
+.Medic h1, h3{
+    font-family: 'Quicksand';
+    color: rgb(80, 80, 80);
+}
+
+.Medic h1{
+    padding-bottom: 1vh;
+}
+
+.Medic h3{
+    font-weight: lighter;
+    padding-bottom: 20px;
+}
+
+/*** Hovering ***/
+
+.Medic:hover{
+    background-color: #77C8F8;
+}
+
+.Medic:hover h1{
+    color: white;
+}
+
+.Medic:hover h3{
+    color: white;
+}
